@@ -2,7 +2,7 @@
 
 Интерактивная карта продуктового подхода к дашбордам: 18 артефактов и 17 процессов с примерами для BI-систем (Power BI, Tableau, Looker).
 
-**Сайт:** https://github.com/addito-5G/dashboard
+**Сайт:** [https://github.com/addito-5G/dashboard](https://addito-5g.github.io/Dashbord-as-product/)
 
 ## Структура проекта
 
