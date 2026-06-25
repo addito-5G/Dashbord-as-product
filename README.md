@@ -4,6 +4,8 @@
 
 **Сайт:** [https://github.com/addito-5G/dashboard](https://addito-5g.github.io/Dashbord-as-product/)
 
+![Интерфейс проекта](dashboard.png)
+
 ## Структура проекта
 
 ```
